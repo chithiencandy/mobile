@@ -1,4 +1,4 @@
-| Tables 	| Are 	| Cool 	| <div style="width:290px">property</div>  	|  	|
+| Tables 	| Are 	| Cool 	| <div style="width:290px">a</div>  	|  	|
 |----------	|:-------------:	|------:	|---	|---	|
 |  	|  	|  	|  	|  	|
 | col 1 is 	| left-aligned 	| $1600 	|  	|  	|
